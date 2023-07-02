@@ -1,0 +1,38 @@
+{
+    "beam_diameter": "3.5",
+    "cleanup_duration": 300.0,
+    "commit": "1f06e6c23874c3a987899e3d69c7708659e67692",
+    "cryo_temperature": 0.0,
+    "extract_device": "Chromium CO2",
+    "extract_duration": 45.0,
+    "extract_units": "watts",
+    "extract_value": 12.5,
+    "extraction_context": {},
+    "grain_polygons": [],
+    "light_value": 0,
+    "load_holder": "21-hole-new",
+    "load_name": "96",
+    "measured_response": null,
+    "pattern": "diamond_br3.0-21_hole_new.lp",
+    "pipette_counts": [],
+    "positions": [
+        {
+            "is_degas": false,
+            "position": 1,
+            "x": null,
+            "y": null,
+            "z": null
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 15.0,
+    "ramp_rate": 0.0,
+    "requested_output": null,
+    "setpoint_stream": null,
+    "snapshots": [],
+    "timestamp": "2023-07-01T22:47:07.769528",
+    "tray": "21-hole-new",
+    "videos": [],
+    "weight": 0
+}
